@@ -1,4 +1,4 @@
-🟩 WattWorks — Leitor Inteligente de Contas de Energia
+# 🟩 WattWorks — Leitor Inteligente de Contas de Energia
 Facilitando a compreensão de contas de energia de grandes empresas
 
 Projeto desenvolvido como trabalho final do Entra21, com o objetivo de resolver um problema recorrente em grandes companhias:
@@ -6,7 +6,7 @@ Projeto desenvolvido como trabalho final do Entra21, com o objetivo de resolver 
 
 O WattWorks foi criado para trazer clareza, automação e acessibilidade à leitura dessas faturas, tornando o processo simples e compreensível para qualquer usuário.
 
-⚡ 🎯 Objetivo do Projeto
+# ⚡ 🎯 Objetivo do Projeto
 
 As faturas de energia corporativas apresentam:
 
@@ -51,7 +51,7 @@ Git — versionamento
 
 OCR Tesseract.js — reconhecimento de texto em PDF/imagens
 
-🔍 Como Funciona
+## 🔍 Como Funciona
 1️⃣ Upload
 
 O usuário envia uma conta de energia (PDF ou imagem).
@@ -88,7 +88,7 @@ Cálculos reestruturados de forma clara
 
 Alertas para possíveis inconsistências
 
-💡 Por que este projeto foi criado?
+# 💡 Por que este projeto foi criado?
 
 Durante a pesquisa para o TCC, constatamos que:
 
@@ -107,14 +107,14 @@ Erros podem não ser identificados
 O WattWorks nasce para resolver isso, tornando acessível algo que antes dependia de conhecimento técnico.
 📘 Traduzimos a linguagem das distribuidoras para qualquer pessoa entender.
 
-👥 Equipe & Colaboração
+# 👥 Equipe & Colaboração
 
 Projeto desenvolvido por alunos do Entra21, com apoio de um engenheiro eletricista para validação das fórmulas e conceitos técnicos.
 
 Contribuições são sempre bem-vindas!
 
 
-📜 Licença
+# 📜 Licença
 
 Distribuído sob a licença MIT.
 Sinta-se livre para usar, modificar e contribuir.
